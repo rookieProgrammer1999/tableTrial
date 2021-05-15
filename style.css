@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+body {
+    color: whitesmoke;
+    /* background-image: url(./Assets/photo-1553095066-5014bc7b7f2d.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+#main {
+    width: auto;
+    background-image: url(./Assets/feb5491cd8ad6ac97010edfa9ce3a778.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    margin: auto;
+    background-size: cover;
+    border-collapse: collapse;
+    /* border-bottom: 5px solid white; */
+    /* background: black; */
+}
+
+td,
+th {
+    padding: 20px;
+    border-bottom: 2px solid white;
+}
+
+img {
+    width: 100px;
+}
+
+
+/* caption {
+    font-size: 65px;
+    font-weight: bolder;
+} */
+
+p {
+    text-align: center;
+    font-size: 65px;
+    font-weight: bolder;
+}
